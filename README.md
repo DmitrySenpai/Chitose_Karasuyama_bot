@@ -1,4 +1,4 @@
-# Chitose_Karasuyama_bot
+# Chitose Karasuyama bot
 
 ![alt text](https://kawai.shikimori.org/system/characters/original/42636.jpg?1545696069)
 
